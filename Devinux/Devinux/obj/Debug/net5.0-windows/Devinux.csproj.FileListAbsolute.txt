@@ -1,0 +1,12 @@
+D:\Source\Devinux\Devinux\bin\Debug\net5.0-windows\Devinux.deps.json
+D:\Source\Devinux\Devinux\bin\Debug\net5.0-windows\Devinux.dll
+D:\Source\Devinux\Devinux\bin\Debug\net5.0-windows\ref\Devinux.dll
+D:\Source\Devinux\Devinux\bin\Debug\net5.0-windows\Devinux.pdb
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.csproj.AssemblyReference.cache
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.AssemblyInfoInputs.cache
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.AssemblyInfo.cs
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.csproj.CoreCompileInputs.cache
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.dll
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\ref\Devinux.dll
+D:\Source\Devinux\Devinux\obj\Debug\net5.0-windows\Devinux.pdb
